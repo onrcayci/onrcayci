@@ -25,6 +25,7 @@ I am Onur, Computer Engineering student at McGill University. I currently work a
  
 - CI/CD Tools I use to automate testing and deployment:
   - Bitbucket Pipelines
+  - GitHub Actions
   - Jenkins
   - AWS CodePipeline and CodeDeploy
   

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Onur, Computer Engineering student at McGill University. I currently work at MoveMate as the Product Development Coordinator.
+I am Onur, Computer Engineering student at McGill University. I currently work at MoveMate as Product Development Coordinator.
 
 ### My programming experience:
 

@@ -8,7 +8,7 @@ I am Onur, Computer Engineering student at McGill University. I currently work a
 
 - Backend Development with:
   - Java and Spring Boot
-  - Python and Django
+  - Python and Django, FastAPI
   - JavaScript and Express
 
 - Databases I usually use:
@@ -31,7 +31,7 @@ I am Onur, Computer Engineering student at McGill University. I currently work a
   
 #### Parallel Computing
 
-- Parallel computing with CUDA C/C++ and Python
+- Parallel computing with CUDA C/C++ and Python using Numba
 
 #### Microprocessors 
 

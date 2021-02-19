@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I am Onur, Computer Engineering student at McGill University. I currently work at MoveMate as Product Development Coordinator.
+I am Onur, Computer Engineering student at McGill University. Upcoming Software Developer MoveMate.
 
-### My programming experience:
+## My programming experience:
 
-#### Web Development
+### Web Development
 
 - Backend Development with:
   - Java and Spring Boot
   - Python and Django, FastAPI
-  - JavaScript and Express
+  - JavaScript/TypeScript and Express
 
 - Databases I usually use:
   - PostgreSQL
@@ -29,17 +29,27 @@ I am Onur, Computer Engineering student at McGill University. I currently work a
   - Jenkins
   - AWS CodePipeline and CodeDeploy
   
-#### Parallel Computing
+### Parallel Computing
 
 - Parallel computing with CUDA C/C++ and Python using Numba
 
-#### Microprocessors 
+### Microprocessors 
 
 - Microprocessor programming using C on ARM Cortex M4.
 
-#### Computer Vision
+### Computer Vision
 
 - Computer Vision practice using OpenCV, NumPy, Matplotlib, Scikit Learn and PyTorch for Python on Google Colab.
+
+## Currently Studying
+
+### Artificial Intelligence
+
+- AI practice using NumPy and Python
+
+### Machine Learning
+
+- Machine Learning Practice using NumPy, Pandas and Scikit Learn and Python on Google Colab.
 
 <!--
 **onrcayci/onrcayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,7 @@ I am Onur, Computer Engineering student at McGill University. Upcoming Software 
 - Backend Development with:
   - Java and Spring Boot
   - Python and Django, FastAPI
-  - JavaScript/TypeScript and Express
+  - JavaScript and Express
 
 - Databases I usually use:
   - PostgreSQL

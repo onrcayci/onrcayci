@@ -11,7 +11,7 @@ I am Onur, Computer Engineering student at McGill University. Upcoming Software 
 - Backend Development with:
   - Java and Spring Boot
   - Python and Django, FastAPI
-  - JavaScript and Express
+  - JavaScript, TypeScript and Express
 
 - Databases I usually use:
   - PostgreSQL
@@ -33,7 +33,7 @@ I am Onur, Computer Engineering student at McGill University. Upcoming Software 
   
 ### Parallel Computing
 
-- Parallel computing with CUDA C/C++ and Python using Numba
+- Parallel computing with CUDA C/C++ and Python Numba
 
 ### Microprocessors 
 
@@ -41,29 +41,14 @@ I am Onur, Computer Engineering student at McGill University. Upcoming Software 
 
 ### Computer Vision
 
-- Computer Vision practice using OpenCV, NumPy, Matplotlib, Scikit Learn and PyTorch for Python on Google Colab.
+- Computer Vision practice using Python libraries OpenCV, NumPy, Matplotlib, Scikit Learn and PyTorch on Google Colab.
 
 ## Currently Studying
 
 ### Artificial Intelligence
 
-- AI practice using NumPy and Python
+- AI practice using Python.
 
 ### Machine Learning
 
-- Machine Learning Practice using NumPy, Pandas and Scikit Learn and Python on Google Colab.
-
-<!--
-**onrcayci/onrcayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning Practice using Python libraries NumPy, Pandas and Scikit Learn.

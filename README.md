@@ -43,11 +43,9 @@ I am Onur, Computer Engineering student at McGill University. Upcoming Software 
 
 - Computer Vision practice using Python libraries OpenCV, NumPy, Matplotlib, Scikit Learn and PyTorch on Google Colab.
 
-## Currently Studying
-
 ### Artificial Intelligence
 
-- AI practice using Python.
+- AI practice using Python libraries such as NumPy.
 
 ### Machine Learning
 

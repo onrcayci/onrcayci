@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-I am Onur, Computer Engineering student at McGill University. Upcoming Software Developer MoveMate.
+I am Onur, I am currently a Software Developer at MoveMate. I am interested in programming languages and software development in general.
 
-<img src="https://github-readme-stats.vercel.app/api?username=onrcayci&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right">
+## My interests:
+
+- **Programming languages**
+  - Currently using **Python**, **JavaScript**, **TypeScript**, **C/C++** and **Go** in my hobby projects.
+- **Operating Systems**
+  - I have experience with **Linux** and I enjoy learning the details of how operating systems works.
+- **Parallel Programming**
+  - I have experience with parallel programming with CUDA. Currently, I am working on learning Multi-threaded parallel programming.
 
 ## My programming experience:
 

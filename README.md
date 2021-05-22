@@ -9,7 +9,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
 - **Operating Systems**
   - I have experience with **Linux** and I enjoy learning the details of how operating systems works.
 - **Parallel Programming**
-  - I have experience with parallel programming with CUDA. Currently, I am working on learning Multi-threaded parallel programming.
+  - I have experience with parallel programming with CUDA. Currently, I am practicing multi-threaded programming on CPUs.
 
 ## My programming experience:
 

@@ -5,7 +5,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
 ## My interests:
 
 - **Programming languages**
-  - Currently using **Python**, **JavaScript**, **TypeScript**, **C/C++** and **Go** in my hobby projects.
+  - Currently using **Python**, **JavaScript**, **TypeScript**, **C/C++**, **Java** and **Go** in my hobby projects.
 - **Operating Systems**
   - I have experience with **Linux** and I enjoy learning the details of how operating systems works.
 - **Parallel Programming**
@@ -18,7 +18,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
 - Backend Development with:
   - Java and Spring Boot
   - Python and Django, FastAPI
-  - JavaScript, TypeScript and Express
+  - JavaScript/TypeScript and Express, Fastify
 
 - Databases I usually use:
   - PostgreSQL
@@ -37,6 +37,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
   - GitHub Actions
   - Jenkins
   - AWS CodePipeline and CodeDeploy
+  - Docker
   
 ### Parallel Computing
 

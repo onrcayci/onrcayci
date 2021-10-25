@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Onur, I am currently a Software Developer at MoveMate. I am interested in programming languages and software development in general.
+I am Onur, I am a Computer Engineering Graduate working in the Software Industry. I am interested in programming languages and software development in general.
 
 ## My interests:
 
@@ -9,7 +9,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
 - **Operating Systems**
   - I have experience with **Linux** and I enjoy learning the details of how operating systems works.
 - **Parallel Programming**
-  - I have experience with parallel programming with CUDA. Currently, I am practicing multi-threaded programming on CPUs.
+  - I have experience with parallel programming with CUDA.
 
 ## My programming experience:
 
@@ -18,7 +18,7 @@ I am Onur, I am currently a Software Developer at MoveMate. I am interested in p
 - Backend Development with:
   - Java and Spring Boot
   - Python and Django, FastAPI
-  - JavaScript/TypeScript and Express, Fastify
+  - JavaScript/TypeScript and Express
 
 - Databases I usually use:
   - PostgreSQL

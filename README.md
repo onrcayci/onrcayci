@@ -1,13 +1,12 @@
-## Hello there! 🐍
+## Hello there! 💻
 
-I am Onur, a Computer Engineering Graduate working working as a Software Developer.
+I am Onur, a Computer Engineering Graduate working as a Software Engineer.
 
 ## Programming languages I work with:
 
 - **Python**
-- **C/C++**
+- **C**
 - **Go**
-- **Rust**
 - **TypeScript**
 
 ## Some of the tools and frameworks I work with:
@@ -15,10 +14,9 @@ I am Onur, a Computer Engineering Graduate working working as a Software Develop
 - **FastAPI**
 - **MongoDB**
 - **React**
+- **Next.js**
 - **Express**
-- **Fastify**
 - **Docker**
-- **NeoVim**
 
 ## My Interests:
 
@@ -26,3 +24,5 @@ I am Onur, a Computer Engineering Graduate working working as a Software Develop
 - **Open Source Software**
 - **AI and ML**
 - **Cybersecurity**
+- **Backend Development**
+- **Cloud (AWS, Azure)**
